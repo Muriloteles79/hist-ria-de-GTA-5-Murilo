@@ -11,10 +11,14 @@ header {
     color: rgb(42, 122, 228);
 }
 
-section{
+section {
     background: rgb(14, 126, 38);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+div {
+    margin-right: 20px;
 }
