@@ -53,4 +53,6 @@ p{
     border: 1px solid red;
 }
 
-.categoria
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
